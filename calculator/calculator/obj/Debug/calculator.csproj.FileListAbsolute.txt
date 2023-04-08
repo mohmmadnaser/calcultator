@@ -1,0 +1,11 @@
+D:\New folder (2)\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+D:\New folder (2)\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+D:\New folder (2)\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\New folder (2)\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\New folder (2)\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\New folder (2)\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\New folder (2)\calculator\calculator\bin\Debug\calculator.exe.config
+D:\New folder (2)\calculator\calculator\bin\Debug\calculator.exe
+D:\New folder (2)\calculator\calculator\bin\Debug\calculator.pdb
+D:\New folder (2)\calculator\calculator\obj\Debug\calculator.exe
+D:\New folder (2)\calculator\calculator\obj\Debug\calculator.pdb
